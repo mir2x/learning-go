@@ -1,7 +1,8 @@
 package main
 
 func main() {
-	arrayConversation()
+	stringSlicing()
+	// arrayConversation()
 	// sliceArrayMemory()
 	// copyArray()
 	// copySlice()

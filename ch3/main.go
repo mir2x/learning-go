@@ -1,7 +1,8 @@
 package main
 
 func main() {
-	copyArray()
+	sliceArrayMemory()
+	// copyArray()
 	// copySlice()
 	// fullSliceExpression()
 	// confusingSlice()

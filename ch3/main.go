@@ -1,7 +1,8 @@
 package main
 
 func main() {
-	sliceArrayMemory()
+	arrayConversation()
+	// sliceArrayMemory()
 	// copyArray()
 	// copySlice()
 	// fullSliceExpression()

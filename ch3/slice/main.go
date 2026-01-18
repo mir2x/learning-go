@@ -1,7 +1,10 @@
 package main
 
 func main() {
-	stringSlicing()
+	stringToSlice()
+	// stringSlicing()
+	// sunSlicing()	
+	// stringSlicing()
 	// arrayConversation()
 	// sliceArrayMemory()
 	// copyArray()
